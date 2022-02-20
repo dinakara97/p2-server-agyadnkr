@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "title": "The Lover",
+        "synopsis": "n 1929 French Indochina, a French teenage girl embarks on a reckless and forbidden romance with a wealthy, older Chinese man, each knowing that knowledge of their affair will bring drastic consequences to each other.",
+        "trailerUrl": "https://www.imdb.com/video/vi1368719641?playlistId=tt0101316&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWY2ZTgwODAtNzI3ZS00ODQ5LWEyMzMtM2RlNzIyZTc1ZTVhXkEyXkFqcGdeQXVyNjY0OTgxOTI@._V1_FMjpg_UX1000_.jpg",
+        "rating": 7,
+        "status": "Active",
+        "genreId": 11,
+        "authorId": 1
+    },
+    {
+        "id": 2,
+        "title": "Red Notice",
+        "synopsis": "An Interpol agent tracks the world's most wanted art thief.",
+        "trailerUrl": "https://www.imdb.com/video/vi612877081?playlistId=tt7991608&ref_=tt_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "rating": 6,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 4,
+        "title": "Deadpool",
+        "synopsis": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+        "trailerUrl": "https://www.imdb.com/video/vi567457049?playlistId=tt1431045&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 5,
+        "title": "Free Guy",
+        "synopsis": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+        "trailerUrl": "https://www.imdb.com/video/vi3038887961?playlistId=tt6264654&ref_=tt_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "rating": 7,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 6,
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "synopsis": "A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America.",
+        "trailerUrl": "https://www.imdb.com/video/vi2943402009?playlistId=tt0463985&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_.jpg",
+        "rating": 6,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 7,
+        "title": "La La Land",
+        "synopsis": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+        "trailerUrl": "https://www.imdb.com/video/vi2514728473?playlistId=tt3783958&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BM2VlN2VlNDQtOGRhOC00YjM2LThjMmUtZGVkZDIwYmRjM2VkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI3NjY2ODc@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 11,
+        "authorId": 1
+    },
+    {
+        "id": 8,
+        "title": "Blade Runner 2049",
+        "synopsis": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+        "trailerUrl": "https://www.imdb.com/video/vi3362371865?playlistId=tt1856101&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 9,
+        "title": "Spider-Man: No Way Home",
+        "synopsis": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "trailerUrl": "https://www.imdb.com/video/vi1390854937?playlistId=tt10872600&ref_=tt_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+        "rating": 9,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 10,
+        "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "synopsis": "Captain Jack Sparrow is pursued by old rival Captain Salazar and a crew of deadly ghosts who have escaped from the Devil's Triangle. They're determined to kill every pirate at sea...notably Jack.",
+        "trailerUrl": "https://www.imdb.com/video/vi172733977?playlistId=tt1790809",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_.jpg",
+        "rating": 6,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 11,
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "synopsis": "The second installment of the \"Fantastic Beasts\" series featuring the adventures of Magizoologist Newt Scamander.",
+        "trailerUrl": "https://www.imdb.com/video/vi965130777?playlistId=tt4123430&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BYWVlMDI5N2UtZTIyMC00NjZkLWI5Y2QtODM5NGE5MzA0NmVjXkEyXkFqcGdeQXVyNzU3NjUxMzE@._V1_FMjpg_UX1000_.jpg",
+        "rating": 6,
+        "status": "Active",
+        "genreId": 9,
+        "authorId": 1
+    },
+    {
+        "id": 12,
+        "title": "Fantastic Beasts and Where to Find Them",
+        "synopsis": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.",
+        "trailerUrl": "https://www.imdb.com/video/vi1553839641?playlistId=tt3183660&ref_=tt_pr_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_FMjpg_UX1000_.jpg",
+        "rating": 7,
+        "status": "Active",
+        "genreId": 9,
+        "authorId": 1
+    },
+    {
+        "id": 13,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "synopsis": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+        "trailerUrl": "https://www.imdb.com/video/vi2007761177?playlistId=tt0304141&ref_=tt_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 9,
+        "authorId": 1
+    },
+    {
+        "id": 14,
+        "title": "Harry Potter and the Goblet of Fire",
+        "synopsis": "Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+        "trailerUrl": "https://www.imdb.com/video/vi2611740953?playlistId=tt0330373&ref_=tt_ov_vi",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_FMjpg_UX1000_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 9,
+        "authorId": 1
+    },
+    {
+        "id": 15,
+        "title": "Ice Age",
+        "synopsis": "The story revolves around sub-zero heroes: a woolly mammoth, a saber-toothed tiger, a sloth and a prehistoric combination of a squirrel and rat, known as Scrat.",
+        "trailerUrl": "https://www.imdb.com/video/vi1000866073?playlistId=tt0268380",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMmYxZWY2NzgtYzJjZC00MDFmLTgxZTctMjRiYjdjY2FhODg3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 16,
+        "title": "Titanic (1997)",
+        "synopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "trailerUrl": "https://www.imdb.com/video/vi907189785?playlistId=tt0120338",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 17,
+        "title": "Family Guy",
+        "synopsis": "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another.",
+        "trailerUrl": "https://www.imdb.com/video/vi2124066585?playlistId=tt0182576",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_FMjpg_UX1000_.jpg",
+        "rating": 9,
+        "status": "Active",
+        "genreId": 2,
+        "authorId": 1
+    },
+    {
+        "id": 18,
+        "title": "Pride & Prejudice (2005)",
+        "synopsis": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?",
+        "trailerUrl": "https://www.imdb.com/video/vi1302135065/?ref_=tt_vi_i_2",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg",
+        "rating": 8,
+        "status": "Active",
+        "genreId": 3,
+        "authorId": 1
+    },
+    {
+        "id": 19,
+        "title": "Star Wars: Episode IX - The Rise of Skywalker",
+        "synopsis": "In the riveting conclusion of the landmark Skywalker saga, new legends will be born-and the final battle for freedom is yet to come.",
+        "trailerUrl": "https://www.imdb.com/video/vi518503961?playlistId=tt2527338",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+        "rating": 7,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 20,
+        "title": "Star Trek: Discovery",
+        "synopsis": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.",
+        "trailerUrl": "https://www.imdb.com/video/vi2811872025?playlistId=tt5171438",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjg1NTc2MDktZTU5Ni00OTZiLWIyNjQtN2FhNGY4MzAxNmZkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "rating": 6,
+        "status": "Active",
+        "genreId": 1,
+        "authorId": 1
+    },
+    {
+        "id": 21,
+        "title": "The Shining",
+        "synopsis": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "trailerUrl": "https://www.imdb.com/video/vi2689121305?playlistId=tt0081505",
+        "imgUrl": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "rating": 7,
+        "status": "Active",
+        "genreId": 6,
+        "authorId": 1
+    }
+]

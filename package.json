@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "google-auth-library": "^7.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.15.0"
+  },
+  "name": "p2-cms-integration-server",
+  "description": "CMS Integration - Server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "nodemon": "nodemon ./bin/www",
+    "dev": "NODE_ENV=development npx nodemon app.js",
+    "start": "node ./bin/www.js",
+    "test": "jest --detectOpenHandles --runInBand --forceExit",
+    "db:test": "sequelize --env test db:drop && sequelize --env test db:create && sequelize --env test db:migrate && sequelize --env test db:seed:all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmt-20-tartu-fox/p2-cms-integration-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmt-20-tartu-fox/p2-cms-integration-server/issues"
+  },
+  "homepage": "https://github.com/rmt-20-tartu-fox/p2-cms-integration-server#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
